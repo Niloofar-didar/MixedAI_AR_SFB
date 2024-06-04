@@ -1,8 +1,8 @@
 
 Welcome to the Mixed AR-AI project!
 
-![Uploading MIR-exp-highQ-Trim-1 (3).gif…]()
-
+[![Uploading MIR-exp-highQ-Trim-1 (3).gif…]()
+](https://github.com/Niloofar-didar/Mixed_AI_AR/blob/main/MIR-exp-highQ.gif)
 
 This project is aimed at improving the performance of AI and AR by controlling virtual objects' triangle count, which affects the overall GPU usage of the mobile phone to leave enough space for both modules to run their tasks on GPU.
 You need to have Android Studio installed on your system. Then, you can download and install the android app on your phone. The app consists of two modules, AR and AI. In the AI module, some AI tasks are run some inferences on input of camera frames.
