@@ -11,4 +11,3 @@ To generate the decimated version of the objects, you could use the python progr
 You can see below a screenshot of the app.
 
 
-![demo](https://user-images.githubusercontent.com/27611369/193911248-1e15edce-d97e-427f-8963-8b02638429ce.jpg)
